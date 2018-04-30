@@ -1,0 +1,29 @@
+[33mcommit 716a8ced36bf22aec273dd7b41a99104576a7fa5[m[33m ([m[1;36mHEAD -> [m[1;32mbranch-1[m[33m)[m
+Author: Hoang Truong Huy <hoangth12495@gmail.com>
+Date:   Mon Apr 30 10:42:02 2018 +0700
+
+    Edit file Test2
+
+[33mcommit 40f3182dc854efdc150ff6915dd179cda9e2f236[m
+Author: Hoang Truong Huy <hoangth12495@gmail.com>
+Date:   Mon Apr 30 10:34:50 2018 +0700
+
+    thêm file Test2.txt
+
+[33mcommit 3f1de5355b8160284154a47c56a877642ca7d428[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Hoang Truong Huy <hoangth12495@gmail.com>
+Date:   Mon Apr 30 10:02:21 2018 +0700
+
+    Sửa file Test
+
+[33mcommit af643bf8ad5a3771e3a82c3b098e201aeb24c641[m
+Author: Hoang Truong Huy <hoangth12495@gmail.com>
+Date:   Sun Apr 29 22:44:14 2018 +0700
+
+    Them file Test.txt
+
+[33mcommit 2161a156d43dd492f3cbf40e95c79cb1ac1e36e4[m
+Author: Hoang Truong Huy <hoangth12495@gmail.com>
+Date:   Sun Apr 29 21:18:30 2018 +0700
+
+    first commit
